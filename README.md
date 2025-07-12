@@ -1,2 +1,4 @@
-> 📦 This project has been moved to  
-> 👉 [github.com/justinsudev/stock-analysis-tool](https://github.com/justinsudev/stock-analysis-tool)
+# 🚀 This project has moved
+
+You can now find the updated repository here:  
+**[github.com/justinsudev/stock-analysis-tool](https://github.com/justinsudev/stock-analysis-tool)**
